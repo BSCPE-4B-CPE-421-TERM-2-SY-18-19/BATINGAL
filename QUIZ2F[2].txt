@@ -1,0 +1,10 @@
+Observation:
+	The fuse of the power supply was defective. The result in it was
+	failure to the system. It results for us to fail to check the other
+	parts especially the motherboard. The CPU fan is functional but we 
+	observerd that the system unit is dusty and the cables are old enough
+	to break at anytime.
+Solutions:
+	> Buy new fuse of the power supply.
+	> Buy new power supply.
+	> Buy a new set of System Unit.

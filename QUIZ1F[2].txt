@@ -1,0 +1,12 @@
+Question: Why does the Raspberry Pi functioning?
+Answer: The Raspberry Pi is functioning because there is an OS installed, and 
+	the connecting wires are in good condition, that makes the Raspberry
+	Pi functions.The charger used was properly connected to the ports of
+	Raspberry Pi. And it is good that the charger is functioning too.Also
+	the Raspberry Pi is in good condition. The red light and the green light
+	is functioning too. The red light indicates the power supply is functioning
+	and the green light is for the OS installed.
+	This answer is according to Neil Cotacte because they've tried troubleshooting
+	the Raspberry Pi. And also, according to Christian Lloyd Salon because he 
+	did a troubleshooting on his Raspberry Pi. The site he searched was,
+	elinux.org/R-Pi-troubleshooting.
